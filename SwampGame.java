@@ -1,9 +1,8 @@
+//Alyssa Davidson
 import java.io.*;
 import java.util.*;
 
-// DO NOT!! IMPORT JAVA.LANG
-
-public class Project9
+public class SwampGame
 {
 	private static int[][] loadSwamp( String infileName, int[] dropInPt  ) throws Exception
 	{
