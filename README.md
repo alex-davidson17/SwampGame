@@ -1,4 +1,4 @@
-# SwampGame
+# Swamp Game
 Program finds an escape path from a given starting point in a maze. 
 The maze (or swamp or mine field etc.) is a square 2D array of int. 
 A value of zero in any cell represents a wall (land mine or quicksand etc.) while a value of one represents a possible step to take. 
